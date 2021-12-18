@@ -1,0 +1,6 @@
+mkdir "day_$1"
+touch "day_$1/__init__.py"
+touch "day_$1/input_$1.txt"
+touch "day_$1/day_$1.py"
+touch "day_$1/test_input_$1.txt"
+touch "day_$1/test_day_$1.py"
